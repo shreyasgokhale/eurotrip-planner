@@ -2,6 +2,10 @@
 
 Eurotrip planner is a Python script for planning the cheapest (euro)trip using SkyScanner API. 
 
+For more info, have a look at:
+
+https://shreyasgokhale.com/tech-blog/eurotrip-planner-part-1/
+
 ## Usage
 First install all the requirements:
 
@@ -21,7 +25,5 @@ Then, edit first 5 entries in ```planner.py``` as according to your proposed tri
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GPL](https://choosealicense.com/licenses/gpl-3.0/)
