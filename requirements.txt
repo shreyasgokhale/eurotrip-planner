@@ -1,7 +1,7 @@
 certifi==2019.11.28
 chardet==3.0.4
 idna==2.8
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.3
 pkg-resources==0.0.0
 pymongo==3.10.1
