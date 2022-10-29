@@ -3,7 +3,14 @@
 Eurotrip planner is a Python script for planning the cheapest (euro)trip using SkyScanner API. 
 
 For more info, have a look at The EuroTrip Planner Blog:
-[Part 1](https://shreyasgokhale.com/tech-blog/eurotrip-planner-part-1/) and [Part 2](https://shreyasgokhale.com/tech-blog/eurotrip-planner-part-2/)
+[Part 1](https://subroutines.shreyasgokhale.com/2019/12/27/eurotrip-planner-part-1) and [Part 2](https://subroutines.shreyasgokhale.com/2020/01/13/eurotrip-planner-part-2)
+
+
+# ⚠️ Update
+Skyscanner stopped their free API in the beginning of 2022 and now you have to request special paid access. Unfortunately, there is no other better alternative which can replace it. 
+
+Feel free to use the backend if you find a custom API. Also open a PR if you want. 
+
 
 ## Requirements
 
